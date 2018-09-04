@@ -16,7 +16,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 ## Assessment
 
-Plethora of annoying error messages that made us actually think. Yay.
+Plethora of annoying error messages that made us actually think. Yay.  Troubleshooting with Git helped us to learn to properly address version control and sharing files between users.  Additionally, demonstrating what happens when two separate users make their own changes without first updating their files helped to promote awareness as to the importance of staying up to date.
 
 ## Honor Pledge
 
